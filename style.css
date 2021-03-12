@@ -1,0 +1,26 @@
+/* change the background color */
+.button-latitude{
+    padding: 10 px;
+    display: inline;
+    color: white;
+    background-color: #0D98BA ;
+    } 
+
+.navbar {
+    padding: 10 px;
+    background: white;
+    display: inline;
+    color: GRAY;
+    text-align: RIGHT;
+}
+
+.content{
+    padding: 50;
+    -webkit-column-count: 1;
+    column-count: 1;
+    MARGIN: 150PX;
+    color:  #0D98BA ;
+}
+
+.text{padding: 10;
+}
